@@ -1,0 +1,29 @@
+_repo: The-Automaton-Ear-and-Other-Sketches_67476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McLandburgh, Florence
+    alias: Wilson, McLandburgh
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '53844'
+    url: http://www.gutenberg.org/2009/agents/53844
+description: ''
+gutenberg_issued: '2022-02-23'
+identifiers:
+  gutenberg: '67476'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006775538
+pgterms:marc905: 20190721215522mclandburg
+pgterms:marc906: '1876'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Jansen, McClurg & Co.,1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Automaton Ear, and Other Sketches
+url: http://www.gutenberg.org/ebooks/67476
